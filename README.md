@@ -1,3 +1,41 @@
+
+
+## Pokemilton is a JavaScript-based terminal game inspired by Pokémon. This project was developed solo by [votre nom] as a 5-day challenge to learn object-oriented programming principles.
+#### Game Overview
+
+#### Pokemilton allows players to:
+
+    Choose and train a Pokémon.
+    Battle against computer-controlled opponents.
+    Explore different locations within the game world.
+    Capture wild Pokémon and add them to their team.
+
+#####The objective is to become a Pokémon Master by defeating gym leaders and ultimately challenging the Elite Four.
+
+#### Technologies Used
+
+    JavaScript: Implemented using object-oriented programming (OOP) principles.
+    Terminal: Runs entirely within the command line interface.
+    Node.js: Used for environment setup and running JavaScript files.
+
+#### Features
+
+    Player and Pokémon Classes: Object-oriented design for defining player actions and Pokémon attributes.
+    Turn-Based Battles: Combat system with attack moves, health points (HP), and status effects.
+    Location Navigation: Ability to move between different game locations.
+    Capture Mechanism: Random encounters and capture mechanics for wild Pokémon.
+    
+#### Screenshots
+![image](https://github.com/Dranhoc/Pokemilton-OOP/assets/160327375/ed5a9222-0206-4ab5-a623-de7fe5bc8916)
+![image](https://github.com/Dranhoc/Pokemilton-OOP/assets/160327375/8066408d-eec6-43a1-affa-fdad0e807ed5)
+
+
+
+
+## Here is the exercise statement for the task.
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/mgZQIncX)
 # POKEMILTON™™ Challenge
 
