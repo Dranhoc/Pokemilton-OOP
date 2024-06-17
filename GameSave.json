@@ -1,0 +1,59 @@
+{
+  "Saved_on": "Thu Mar 14 2024 13:54:44 GMT+0100 (Central European Standard Time)",
+  "PokeMaster": {
+    "name": "TOTO",
+    "pokemiltonCollection": [
+      {
+        "name": "SANGOKU",
+        "level": 2,
+        "experienceMeter": 130,
+        "attackRange": 10,
+        "defenseRange": 9,
+        "healthPool": 35,
+        "catchPhrase": "Pokemilton, go!",
+        "health": 29,
+        "alive": true
+      },
+      {
+        "name": "KRILIN",
+        "level": 1,
+        "experienceMeter": 0,
+        "attackRange": 7,
+        "defenseRange": 2,
+        "healthPool": 14,
+        "catchPhrase": "Pokemilton, go!",
+        "health": 14,
+        "alive": true
+      },
+      {
+        "name": "Nicoach",
+        "level": 1,
+        "experienceMeter": 0,
+        "attackRange": 2,
+        "defenseRange": 2,
+        "healthPool": 15,
+        "catchPhrase": "Let the battle begin!",
+        "health": 3,
+        "alive": true
+      }
+    ],
+    "healingItems": 2,
+    "reviveItems": 7,
+    "POKEBALLS": 5
+  },
+  "PokeWorld": {
+    "day": 34,
+    "logs": [
+      "Day 0: Auréory has been added to your collection.",
+      "Day 9: SANGOKU won the fight against alyauel",
+      "Day 11: ThomAuré has been catched and added to your collection! Let the battle begin!",
+      "Day 13: Enkil has been catched and added to your collection! I choose you!",
+      "Day 15: SANGOKU won the fight against illeis",
+      "Day 17: SANGOKU won the fight against Yastin",
+      "Day 19: SANGOKU won the fight against JérLou",
+      "Day 23: VEGETA won the fight against ilQuen",
+      "Day 25: ielrc has been catched and added to your collection! Pokemilton, go!",
+      "Day 33: aslien has been catched and added to your collection! Let the battle begin!"
+    ]
+  }
+}
